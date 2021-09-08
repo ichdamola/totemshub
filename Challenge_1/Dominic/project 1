@@ -1,0 +1,16 @@
+1.
+
+What is forking a repository?
+
+Forking a repository can be explained as making your own personal copy of a repository that is part of a different organization or person’s account.
+There is no GitHub Command for forking a repository, it can simply be done by clicking repo, followed by fork.
+
+2. Cloning a repository...
+
+This is the process of downloading a repo offline and being able to edit it  
+The Git Command line is as follows.
+
+Open “Git Bash” and change the current working directory to the location where you want the cloned directory.
+Type git clone in the terminal, paste the URL you copied earlier, and press “enter” to create your local clone.
+
+3. 
